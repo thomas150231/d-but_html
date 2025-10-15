@@ -1,6 +1,7 @@
 body {
-    background-color: purple
-  }
-  body {
-    color: white
-  }
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG61lM7ad5zdqBpDt4rqTrfUpzFGkNigdg6w&s);
+}
+
+h1, h2, p {
+  text-align: center;
+}
